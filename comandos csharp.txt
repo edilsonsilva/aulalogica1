@@ -1,3 +1,4 @@
 Console.WriteLine -> Escreve uma linha na tela
 Este é um exemplo de versionamento do git
 Outra alteração
+Hoje é sexta-feira
